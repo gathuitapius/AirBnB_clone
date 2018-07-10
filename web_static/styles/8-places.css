@@ -13,7 +13,6 @@ article {
   padding: 20px;
   margin: 20px;
   display: inline-block;
-  text-indent: 50px;
   min-height: 250px;
   vertical-align: top;
 }
@@ -31,8 +30,8 @@ div.price_by_night {
   line-height: 60px;
   font-size: 30px;
   position: absolute;
-  top: 8px;
-  right: 20px;
+  top: -80px;
+  float: right;
 }
 div.information {
   height: 80px;
